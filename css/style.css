@@ -7,11 +7,11 @@ body {
 	height: 100vh;
 	margin: 0;
 	font-family: "Outfit", sans-serif;
-  font-size: 15px;
+	font-size: 15px;
 }
 main {
-  background-color: hsl(0, 0%, 100%);
-	max-width: 360px;
+	background-color: hsl(0, 0%, 100%);
+	max-width: 280px;
 	text-align: center;
 	border-radius: 15px;
 	padding: 1em;
