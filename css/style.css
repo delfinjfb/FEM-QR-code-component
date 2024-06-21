@@ -8,6 +8,7 @@ body {
 	margin: 0;
 	font-family: "Outfit", sans-serif;
 	font-size: 15px;
+	color: #7D889E;
 }
 main {
 	background-color: hsl(0, 0%, 100%);
@@ -29,6 +30,7 @@ h1 {
 	font-weight: 700;
 	font-size: 1.5em;
 	margin: 0.5em 0;
+	color: #1F314F;
 }
 p {
 	font-weight: 400;
